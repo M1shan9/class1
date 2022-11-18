@@ -1,0 +1,28 @@
+C:\Users\egorb\source\repos\Классы\Классы\bin\Debug\netcoreapp3.1\Классы.exe
+C:\Users\egorb\source\repos\Классы\Классы\bin\Debug\netcoreapp3.1\Классы.deps.json
+C:\Users\egorb\source\repos\Классы\Классы\bin\Debug\netcoreapp3.1\Классы.runtimeconfig.json
+C:\Users\egorb\source\repos\Классы\Классы\bin\Debug\netcoreapp3.1\Классы.runtimeconfig.dev.json
+C:\Users\egorb\source\repos\Классы\Классы\bin\Debug\netcoreapp3.1\Классы.dll
+C:\Users\egorb\source\repos\Классы\Классы\bin\Debug\netcoreapp3.1\Классы.pdb
+C:\Users\egorb\source\repos\Классы\Классы\obj\Debug\netcoreapp3.1\Классы.csproj.AssemblyReference.cache
+C:\Users\egorb\source\repos\Классы\Классы\obj\Debug\netcoreapp3.1\Классы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egorb\source\repos\Классы\Классы\obj\Debug\netcoreapp3.1\Классы.AssemblyInfoInputs.cache
+C:\Users\egorb\source\repos\Классы\Классы\obj\Debug\netcoreapp3.1\Классы.AssemblyInfo.cs
+C:\Users\egorb\source\repos\Классы\Классы\obj\Debug\netcoreapp3.1\Классы.csproj.CoreCompileInputs.cache
+C:\Users\egorb\source\repos\Классы\Классы\obj\Debug\netcoreapp3.1\Классы.dll
+C:\Users\egorb\source\repos\Классы\Классы\obj\Debug\netcoreapp3.1\Классы.pdb
+C:\Users\egorb\source\repos\Классы\Классы\obj\Debug\netcoreapp3.1\Классы.genruntimeconfig.cache
+C:\Users\Михаил\OneDrive\Рабочий стол\Классы\Классы\bin\Debug\netcoreapp3.1\Классы.exe
+C:\Users\Михаил\OneDrive\Рабочий стол\Классы\Классы\bin\Debug\netcoreapp3.1\Классы.deps.json
+C:\Users\Михаил\OneDrive\Рабочий стол\Классы\Классы\bin\Debug\netcoreapp3.1\Классы.runtimeconfig.json
+C:\Users\Михаил\OneDrive\Рабочий стол\Классы\Классы\bin\Debug\netcoreapp3.1\Классы.runtimeconfig.dev.json
+C:\Users\Михаил\OneDrive\Рабочий стол\Классы\Классы\bin\Debug\netcoreapp3.1\Классы.dll
+C:\Users\Михаил\OneDrive\Рабочий стол\Классы\Классы\bin\Debug\netcoreapp3.1\Классы.pdb
+C:\Users\Михаил\OneDrive\Рабочий стол\Классы\Классы\obj\Debug\netcoreapp3.1\Классы.csproj.AssemblyReference.cache
+C:\Users\Михаил\OneDrive\Рабочий стол\Классы\Классы\obj\Debug\netcoreapp3.1\Классы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил\OneDrive\Рабочий стол\Классы\Классы\obj\Debug\netcoreapp3.1\Классы.AssemblyInfoInputs.cache
+C:\Users\Михаил\OneDrive\Рабочий стол\Классы\Классы\obj\Debug\netcoreapp3.1\Классы.AssemblyInfo.cs
+C:\Users\Михаил\OneDrive\Рабочий стол\Классы\Классы\obj\Debug\netcoreapp3.1\Классы.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\OneDrive\Рабочий стол\Классы\Классы\obj\Debug\netcoreapp3.1\Классы.dll
+C:\Users\Михаил\OneDrive\Рабочий стол\Классы\Классы\obj\Debug\netcoreapp3.1\Классы.pdb
+C:\Users\Михаил\OneDrive\Рабочий стол\Классы\Классы\obj\Debug\netcoreapp3.1\Классы.genruntimeconfig.cache
